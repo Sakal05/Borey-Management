@@ -1,3 +1,6 @@
 [submodule "Borey-Management-User-Frontend-Submodule"]
 	path = Borey-Management-User-Frontend-Submodule
 	url = https://github.com/Sakal05/Borey-Management-User.git
+[submodule "Borey-Management-Company-Frontend-Submodule"]
+	path = Borey-Management-Company-Frontend-Submodule
+	url = https://github.com/Sakal05/Borey-Management-Company.git
