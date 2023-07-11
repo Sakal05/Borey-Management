@@ -7,3 +7,6 @@
 [submodule "Borey-Management-Admin-Backend-Submodule"]
 	path = Borey-Management-Admin-Backend-Submodule
 	url = https://github.com/Sakal05/Borey-Management-Admin.git
+[submodule "Borey-Management-API-Laravel-Submodule"]
+	path = Borey-Management-API-Laravel-Submodule
+	url = https://github.com/Sakal05/Borey-Management-API.git
