@@ -144,7 +144,7 @@ cd Borey-Management
   yarn dev
   ```
 
-6. Access the project in your browser by visiting `http://localhost:3000`.
+6. Access the project in your browser by visiting `http://localhost:3000`, `http://localhost:3001`, `http://localhost:3002` for User web. Company Web, Admin Web, respectively.
 
 ## Additional Configuration
 
