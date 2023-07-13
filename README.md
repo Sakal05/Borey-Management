@@ -84,7 +84,7 @@ php artisan cache:clear
 
 ## Conclusion
 
-That's it! You have successfully installed and executed the Laravel project. If you have any questions or need further assistance, feel free to contact us at [support@example.com](mailto:support@example.com). Enjoy working with Laravel!
+That's it! You have successfully installed and executed the Laravel project. If you have any questions or need further assistance, feel free to contact us at [ssamnang1@paragoniu.edu.kh](mailto:support@example.com). Enjoy working with Laravel!
 
 ---
 
@@ -164,4 +164,4 @@ If you encounter any issues during the installation or execution of the Next.js 
 
 ## Conclusion
 
-That's it! You have successfully installed and executed the Next.js project. If you have any questions or need further assistance, feel free to contact us at [support@example.com](mailto:support@example.com). Enjoy working with Next.js!
+That's it! You have successfully installed and executed the Next.js project. If you have any questions or need further assistance, feel free to contact us at [ssamnang1@paragoniu.edu.kh](mailto:support@example.com). Enjoy working with Next.js!
